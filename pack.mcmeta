@@ -1,0 +1,20 @@
+{
+	"pack": {
+		"pack_format": 9,
+
+		"description": [
+			{
+				"text": "XINGDOU v19.0",
+				"color": "aqua"
+			},
+			{
+				"text": "  [CORE]",
+				"color": "blue"
+			},
+			{
+				"text": "\nFor 1.19.x",
+				"color": "yellow"
+			}
+		]
+	}
+}
