@@ -4,7 +4,7 @@ for Minecraft 1.19.x
 
 由SMCT.lab星端開發的一套Minecraft遊戲材質包。
 
-##採用 STUI 5.0 介面
+**採用 STUI 5.0 介面**
 ![工作區域 1@4x555](https://user-images.githubusercontent.com/86358347/197397156-f78367b1-bf7a-4c77-a572-fa3b2687a6e4.png)
 
 工具欄
