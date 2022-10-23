@@ -12,5 +12,5 @@ for Minecraft 1.19.x
 主頁與選單
 ![螢幕擷取畫面_20221023_102114](https://user-images.githubusercontent.com/86358347/197397486-9b471891-ccb3-4980-b6c0-4eac50eb54be.png)
 ![螢幕擷取畫面_20221023_102126](https://user-images.githubusercontent.com/86358347/197397493-b1ee17db-0c3a-4c00-b46b-55929e9896b0.png)
-操作介面
+部分操作介面
 ![螢幕擷取畫面_20221023_102250](https://user-images.githubusercontent.com/86358347/197397526-6fd7eb79-ad57-422a-a161-e9f8961f40e1.png)
