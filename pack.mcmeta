@@ -1,20 +1,19 @@
 {
-	"pack": {
-		"pack_format": 9,
-
-		"description": [
+   "pack": {
+      "pack_format": 15,
+      "description": [
 			{
-				"text": "XINGDOU v19.0",
+				"text": "[CORE] v20.0",
 				"color": "aqua"
 			},
 			{
-				"text": "  [CORE]",
-				"color": "blue"
+				"text": "  For 1.20.x",
+				"color": "yellow"
 			},
 			{
-				"text": "\nFor 1.19.x",
-				"color": "yellow"
+				"text": "\nhttps://smct.vercel.app",
+				"color": "blue"
 			}
 		]
-	}
+   }
 }
